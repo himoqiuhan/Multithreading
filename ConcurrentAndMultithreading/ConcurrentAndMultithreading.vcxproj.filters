@@ -19,4 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Project4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Project3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
