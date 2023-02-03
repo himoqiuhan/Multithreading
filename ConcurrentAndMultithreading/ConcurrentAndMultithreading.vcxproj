@@ -132,6 +132,8 @@
   <ItemGroup>
     <ClInclude Include="src\Project3.h" />
     <ClInclude Include="src\Project4.h" />
+    <ClInclude Include="src\Project5.h" />
+    <ClInclude Include="src\Project6.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

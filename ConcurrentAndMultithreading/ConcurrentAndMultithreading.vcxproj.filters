@@ -26,5 +26,11 @@
     <ClInclude Include="src\Project3.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\Project5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Project6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
